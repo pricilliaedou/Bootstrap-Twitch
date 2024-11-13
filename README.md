@@ -56,6 +56,10 @@ Pour exécuter le projet en local, vous aurez besoin de :
 - **css/style.css** : Contient tous les styles personnalisés pour le projet, remplaçant les paramètres par défaut de Bootstrap pour obtenir l'apparence souhaitée.
 - **settings.json** : Paramètres de configuration pour le serveur en direct.
 
+## Démo du projet
+
+https://bootstrap-twitch.netlify.app
+
 ## Licence
 
 Ce projet est open-source et disponible sous la licence MIT. N'hésitez pas à le fork et à le modifier pour vos besoins.
